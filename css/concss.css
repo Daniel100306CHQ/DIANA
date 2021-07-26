@@ -1,0 +1,49 @@
+.body{
+  font-family: 'Qahiri', sans-serif;
+}
+.contenedor{
+    width: 100%;
+    height: 60em;
+    border: solid 2px black;
+    background-color: #9DCDFF;
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+.item1{
+    width:12em;
+    height: 6em;
+    justify-content: center;
+    font-size: 3em; 
+    background-color: transparent; 
+     display: flex;
+     align-content: flex-start;
+     margin: 5px;
+     flex-wrap: wrap;
+     border-color: black;
+    color: white; 
+border-color: black;}
+ .one{
+    width: 7em;
+    height: 6em;
+    background-color: transparent; 
+    flex-direction: row;
+    color: black;
+    
+    font-family: Qahiri;
+    background-position: center;
+    justify-content: space-between;
+}
+.two{
+   width: 12em;
+    height: 6em;
+    font-family: Qahiri;
+    color: black;
+    background-color:transparent;
+    
+}
+.three{
+    width: 2em;
+    height: 3em;
+    font-family: lobster;
+}
